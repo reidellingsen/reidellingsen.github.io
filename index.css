@@ -1,0 +1,72 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+       background-color: #fafce3
+    }
+
+    header {
+        background-color: #16d032;
+        padding: 5px;
+        font-size: 20px ;
+        display: block;
+        border: 2px solid #0e4817;
+    }
+    nav {
+        float: left;
+        width: 75%;
+    }
+    nav ul {
+        padding: ;
+        float: 0px left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 5px 20px 5px 5px;
+        vertical-align: 0px left;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    h2 {
+      font-size: 20px;
+      background-color: #16d032;
+      border: 2px solid #0e4817;
+      width: 800px
+
+    }
+
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
